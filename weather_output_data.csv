@@ -1,0 +1,49 @@
+Name of City,temp,humidity,temp_min,temp_max,pressure,lon,lat,sys,country,name,weather,description,Status
+Mumbai,28.99,84,27.94,28.99,1008,72.8479,19.0144,"{'type': 1, 'id': 9052, 'country': 'IN', 'sunrise': 1691282815, 'sunset': 1691329332}",,Mumbai,Haze,haze,Success
+Delhi,34.05,62,34.05,34.05,999,77.2167,28.6667,"{'type': 1, 'id': 9165, 'country': 'IN', 'sunrise': 1691280898, 'sunset': 1691329153}",,Delhi,Haze,haze,Success
+Bengaluru,29.3,57,27.7,31.8,1013,77.6033,12.9762,"{'type': 2, 'id': 2017753, 'country': 'IN', 'sunrise': 1691282158, 'sunset': 1691327707}",,Bengaluru,Clouds,scattered clouds,Success
+Ahmedabad,32.02,62,32.02,32.02,1003,72.6167,23.0333,"{'type': 1, 'id': 9049, 'country': 'IN', 'sunrise': 1691282526, 'sunset': 1691329732}",,Ahmedabad,Haze,haze,Success
+Hyderabad,30.23,58,30.23,30.73,1009,78.4744,17.3753,"{'type': 1, 'id': 9214, 'country': 'IN', 'sunrise': 1691281599, 'sunset': 1691327847}",,Hyderabad,Drizzle,light intensity drizzle,Success
+Chennai,37.99,44,37.99,37.99,1005,80.2785,13.0878,"{'type': 1, 'id': 9218, 'country': 'IN', 'sunrise': 1691281507, 'sunset': 1691327073}",,Chennai,Clouds,few clouds,Success
+Kolkata,28.97,84,28.97,28.97,999,88.3697,22.5697,"{'type': 1, 'id': 9114, 'country': 'IN', 'sunrise': 1691278785, 'sunset': 1691325912}",,Kolkata,Haze,haze,Success
+Pune,27.3,65,27.3,27.3,1008,73.8553,18.5196,"{'type': 2, 'id': 2083365, 'country': 'IN', 'sunrise': 1691282614, 'sunset': 1691329049}",,Pune,Clouds,overcast clouds,Success
+Jaipur,31.62,66,31.62,31.62,1002,75.8167,26.9167,"{'type': 1, 'id': 9170, 'country': 'IN', 'sunrise': 1691281403, 'sunset': 1691329319}",,Jaipur,Haze,haze,Success
+Surat,29.99,79,29.99,29.99,1006,72.8333,21.1667,"{'type': 1, 'id': 9071, 'country': 'IN', 'sunrise': 1691282637, 'sunset': 1691329517}",,Surat,Clouds,overcast clouds,Success
+Lucknow,28.99,89,28.99,28.99,998,80.9167,26.85,"{'type': 1, 'id': 9176, 'country': 'IN', 'sunrise': 1691280185, 'sunset': 1691328090}",,Lucknow,Thunderstorm,thunderstorm with light rain,Success
+Kanpur,32.4,63,32.4,32.4,997,80.35,26.4667,"{'country': 'IN', 'sunrise': 1691280357, 'sunset': 1691328189}",,Kanpur,Rain,moderate rain,Success
+Nagpur,31.01,74,31.01,31.01,1005,79.1,21.15,"{'type': 1, 'id': 9069, 'country': 'IN', 'sunrise': 1691281134, 'sunset': 1691328012}",,Nagpur,Haze,haze,Success
+Patna,31.96,94,31.96,31.96,996,85.1167,25.6,"{'type': 1, 'id': 9129, 'country': 'IN', 'sunrise': 1691279293, 'sunset': 1691326965}",,Patna,Clouds,overcast clouds,Success
+Indore,27.1,78,27.1,27.1,1007,75.8333,22.7179,"{'type': 1, 'id': 9067, 'country': 'IN', 'sunrise': 1691281782, 'sunset': 1691328932}",,Indore,Clouds,broken clouds,Success
+Thane,28.95,84,27.9,28.95,1008,72.9667,19.2,"{'type': 1, 'id': 9052, 'country': 'IN', 'sunrise': 1691282771, 'sunset': 1691329319}",,Thāne,Haze,haze,Success
+Bhopal,26.13,83,26.13,26.13,1005,77.4,23.2667,"{'type': 1, 'id': 9063, 'country': 'IN', 'sunrise': 1691281357, 'sunset': 1691328605}",,Bhopal,Haze,haze,Success
+Visakhapatnam,33.51,55,33.51,33.51,1001,83.2093,17.69,"{'country': 'IN', 'sunrise': 1691280437, 'sunset': 1691326737}",,Visakhapatnam,Clouds,overcast clouds,Success
+Vadodara,31.98,58,31.98,31.98,1004,73.2,22.3,"{'type': 1, 'id': 9060, 'country': 'IN', 'sunrise': 1691282451, 'sunset': 1691329527}",,Vadodara,Clouds,broken clouds,Success
+Firozabad,35.65,48,35.65,35.65,997,78.4167,27.15,"{'country': 'IN', 'sunrise': 1691280757, 'sunset': 1691328718}",,Firozabad,Clouds,broken clouds,Success
+Ludhiana,37.83,62,34.36,37.83,968,75.85,30.9,"{'type': 2, 'id': 2036316, 'country': 'IN', 'sunrise': 1691281001, 'sunset': 1691329705}",,Ludhiana,Clouds,scattered clouds,Success
+Rajkot,31.98,58,31.98,31.98,1004,70.7833,22.3,"{'type': 1, 'id': 9061, 'country': 'IN', 'sunrise': 1691283031, 'sunset': 1691330107}",,Rajkot,Clouds,broken clouds,Success
+Agra,36.27,45,36.27,36.27,997,78.0167,27.1833,"{'country': 'IN', 'sunrise': 1691280849, 'sunset': 1691328817}",,Agra,Clouds,broken clouds,Success
+Siliguri,30.32,81,30.32,30.32,996,88.4333,26.7,"{'country': 'IN', 'sunrise': 1691278394, 'sunset': 1691326272}",,Siliguri,Clouds,overcast clouds,Success
+Nashik,26.36,73,26.36,26.36,1007,73.8,19.9833,"{'country': 'IN', 'sunrise': 1691282506, 'sunset': 1691329185}",,Nashik,Clouds,overcast clouds,Success
+Faridabad,34.14,40,34.14,34.14,995,77.3167,28.4333,"{'type': 1, 'id': 9165, 'country': 'IN', 'sunrise': 1691280897, 'sunset': 1691329106}",,Faridabad,Clouds,broken clouds,Success
+Patiala,37.14,41,37.14,37.14,995,76.4003,30.3267,"{'country': 'IN', 'sunrise': 1691280928, 'sunset': 1691329514}",,Patiāla,Clouds,overcast clouds,Success
+Meerut,37.19,45,37.19,37.19,995,77.7,28.9833,"{'country': 'IN', 'sunrise': 1691280751, 'sunset': 1691329068}",,Meerut,Clouds,few clouds,Success
+Kalyan-Dombivali,,,,,,,,,,,,,Failed
+Vasai-Virar,27.97,72,27.97,29.02,1007,72.8225,19.4259,"{'type': 1, 'id': 9068, 'country': 'IN', 'sunrise': 1691282787, 'sunset': 1691329372}",,Vasai-Virar,Clouds,overcast clouds,Success
+Varanasi,30.05,94,30.05,30.05,998,83,25.3333,"{'type': 1, 'id': 9138, 'country': 'IN', 'sunrise': 1691279826, 'sunset': 1691327448}",,Varanasi,Thunderstorm,thunderstorm with light rain,Success
+Srinagar,28.57,56,28.57,28.57,998,74.8167,34.0833,"{'country': 'IN', 'sunrise': 1691280908, 'sunset': 1691330295}",,Srinagar,Clouds,few clouds,Success
+Dhanbad,30.94,69,30.94,30.94,996,86.45,23.8,"{'country': 'IN', 'sunrise': 1691279137, 'sunset': 1691326481}",,Dhanbad,Clouds,overcast clouds,Success
+Jodhpur,34.4,46,34.4,34.4,999,73.03,26.2867,"{'country': 'IN', 'sunrise': 1691282131, 'sunset': 1691329929}",,Jodhpur,Clouds,scattered clouds,Success
+Amritsar,34.97,75,34.97,35.9,997,74.8656,31.6331,"{'type': 1, 'id': 9157, 'country': 'IN', 'sunrise': 1691281161, 'sunset': 1691330018}",,Amritsar,Mist,mist,Success
+Raipur,28.08,89,28.08,28.08,1003,81.6333,21.2333,"{'type': 1, 'id': 9168, 'country': 'IN', 'sunrise': 1691280519, 'sunset': 1691327412}",,Raipur,Haze,haze,Success
+Allahabad,31.53,67,31.53,31.53,997,81.85,25.45,"{'country': 'IN', 'sunrise': 1691280092, 'sunset': 1691327735}",,Allahabad,Clouds,overcast clouds,Success
+Coimbatore,32.88,55,30.84,32.88,1009,76.9667,11,"{'type': 1, 'id': 9206, 'country': 'IN', 'sunrise': 1691282463, 'sunset': 1691327707}",,Coimbatore,Clouds,few clouds,Success
+Jabalpur,26.47,94,26.47,26.47,1004,79.9501,23.167,"{'type': 1, 'id': 9066, 'country': 'IN', 'sunrise': 1691280754, 'sunset': 1691327984}",,Jabalpur,Drizzle,light intensity drizzle,Success
+Gwalior,31.92,65,31.92,31.92,998,78.1792,26.2236,"{'country': 'IN', 'sunrise': 1691280901, 'sunset': 1691328687}",,Gwalior,Clouds,overcast clouds,Success
+Vijayawada,35.97,44,34.3,35.97,1003,80.6167,16.5167,"{'type': 1, 'id': 9207, 'country': 'IN', 'sunrise': 1691281155, 'sunset': 1691327264}",,Vijayawada,Clouds,scattered clouds,Success
+Madurai,41.01,29,41.01,41.01,1006,78.1167,9.9333,"{'type': 1, 'id': 9216, 'country': 'IN', 'sunrise': 1691282268, 'sunset': 1691327350}",,Madurai,Clouds,scattered clouds,Success
+Guwahati,27.95,100,27.95,27.95,997,91.751,26.1862,"{'type': 1, 'id': 9117, 'country': 'IN', 'sunrise': 1691277646, 'sunset': 1691325428}",,Guwahati,Mist,mist,Success
+Chandigarh,34.18,55,34.18,34.18,995,76.7933,30.7343,"{'country': 'IN', 'sunrise': 1691280792, 'sunset': 1691329462}",,Chandigarh,Clouds,overcast clouds,Success
+Hubli-Dharwad,,,,,,,,,,,,,Failed
+Amroha,35.43,52,35.43,35.43,995,78.4667,28.9167,"{'country': 'IN', 'sunrise': 1691280573, 'sunset': 1691328877}",,Amroha,Clouds,broken clouds,Success
+Moradabad,35.25,52,35.25,35.25,995,78.7833,28.8333,"{'country': 'IN', 'sunrise': 1691280505, 'sunset': 1691328793}",,Morādābād,Clouds,scattered clouds,Success
+Gurgaon,34.02,62,34.02,34.02,999,77.0333,28.4667,"{'type': 1, 'id': 9165, 'country': 'IN', 'sunrise': 1691280962, 'sunset': 1691329177}",,Gurgaon,Haze,haze,Success
